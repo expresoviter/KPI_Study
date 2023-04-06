@@ -1,0 +1,5 @@
+﻿  LAb7Cpp1.cpp
+C:\Users\LEGION\Desktop\Владик\Лабораторні_ОП\Laboratorna_7\LAb7Cpp1\LAb7Cpp1.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\LEGION\Desktop\Владик\Лабораторні_ОП\Laboratorna_7\LAb7Cpp1\LAb7Cpp1.cpp(39,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LEGION\Desktop\Владик\Лабораторні_ОП\Laboratorna_7\LAb7Cpp1\LAb7Cpp1.cpp(41,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LAb7Cpp1.vcxproj -> C:\Users\LEGION\Desktop\Владик\Лабораторні_ОП\Laboratorna_7\LAb7Cpp1\Debug\LAb7Cpp1.exe
