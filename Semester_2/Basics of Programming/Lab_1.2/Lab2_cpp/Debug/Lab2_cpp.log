@@ -1,0 +1,4 @@
+﻿  binFiles.cpp
+C:\Users\LEGION\Desktop\Владик\Lab_OP\Lab_1.2\Lab2_cpp\binFiles.cpp(50,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LEGION\Desktop\Владик\Lab_OP\Lab_1.2\Lab2_cpp\binFiles.cpp(96,23): warning C4018: '<': signed/unsigned mismatch
+  Lab2_cpp.vcxproj -> C:\Users\LEGION\Desktop\Владик\Lab_OP\Lab_1.2\Lab2_cpp\Debug\Lab2_cpp.exe
