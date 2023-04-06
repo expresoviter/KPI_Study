@@ -1,0 +1,6 @@
+﻿  classes.cpp
+C:\Users\LEGION\Desktop\Владик\Lab_OP\Lab_3\Lab3_cpp\classes.cpp(55,14): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\LEGION\Desktop\Владик\Lab_OP\Lab_3\Lab3_cpp\classes.cpp(66,15): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LEGION\Desktop\Владик\Lab_OP\Lab_3\Lab3_cpp\classes.cpp(84,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\LEGION\Desktop\Владик\Lab_OP\Lab_3\Lab3_cpp\classes.cpp(95,14): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Lab3_cpp.vcxproj -> C:\Users\LEGION\Desktop\Владик\Lab_OP\Lab_3\Lab3_cpp\x64\Debug\Lab3_cpp.exe

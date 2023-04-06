@@ -1,0 +1,7 @@
+﻿  Lab5_cp.cpp
+  tree.cpp
+C:\Users\LEGION\Desktop\Владик\Lab_OP\Lab_5\Lab5_cp\tree.cpp(78,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\LEGION\Desktop\Владик\Lab_OP\Lab_5\Lab5_cp\tree.cpp(61): warning C4715: 'ExpTree::search': not all control paths return a value
+C:\Users\LEGION\Desktop\Владик\Lab_OP\Lab_5\Lab5_cp\tree.cpp(92): warning C4172: returning address of local variable or temporary: a
+  Lab5_cp.vcxproj -> C:\Users\LEGION\Desktop\Владик\Lab_OP\Lab_5\Lab5_cp\x64\Debug\Lab5_cp.exe
