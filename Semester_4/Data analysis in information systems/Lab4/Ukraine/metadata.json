@@ -1,0 +1,21 @@
+{
+    "Raw File Name": "ukraine_adm1_osm.zip", 
+    "Group": "Ukraine", 
+    "License": "ODbL", 
+    "country": "Ukraine", 
+    "Unnamed: 11": null, 
+    "Processed File Name": "UKR_ADM1.zip", 
+    "timestamp": 1534539071, 
+    "Known Errors": "Includes water territories, includes Crimea and Sevastopol", 
+    "datetime": "2018-08-17 16:51:11", 
+    "version": "1_3_3", 
+    "Unnamed: 12": null, 
+    "Source 2": "Wambacher (https://wambachers-osm.website/boundaries/)", 
+    "Source 1": "OpenStreetMap", 
+    "Year": 2017, 
+    "iso": "UKR", 
+    "adm": "ADM1", 
+    "Changes": "Yes", 
+    "Link to Source Data": null, 
+    "Boundary Level": "ADM 1"
+}
